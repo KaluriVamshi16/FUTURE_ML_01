@@ -79,5 +79,3 @@ This project demonstrates data ingestion, exploratory analysis and a basic forec
 Specify your license here (e.g., MIT, Apache 2.0, etc.).
 
 ---
-
-Feel free to modify this README to suit your repo’s needs before pushing it to GitHub. 😊
